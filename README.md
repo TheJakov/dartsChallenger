@@ -33,7 +33,7 @@ _"**[EPIC]** (3 darts) Score more than 60 points.", 15, 0_
 
 _"**[EPIC]** (3 darts) Score less than 7 points - each dart MUST hit the target.", 15, 0_
 
-_"(3 darts) Score any number of points between 20 and 30, including those numbers" + " - each dart MUST hit the target.", 10, 2_
+_"(3 darts) Score any number of points between 20 and 30, including those numbers - each dart MUST hit the target.", 10, 2_
 
 _"(1 dart) You must hit even number.", 10, 5_
 
