@@ -1,4 +1,4 @@
-# dartsChallenge
+# dartsChallenger
 
 Console application made in Python for darts game lovers.🎯
 
