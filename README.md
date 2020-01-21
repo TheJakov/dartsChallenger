@@ -15,3 +15,9 @@ or ```python3 .\dartsChallenger.py``` (Windows)
 
 ### Preview
 
+#### Adding players and number of rounds
+<img alt="Preview1" src="https://github.com/TheJakov/dartsChallenger/blob/master/preview/app1.gif" width="882" height="502">
+
+#### Example of playing challenges
+<img alt="Preview2" src="https://github.com/TheJakov/dartsChallenger/blob/master/preview/app2.gif" width="882" height="502">
+
